@@ -1,6 +1,8 @@
 
 # Pinta - [Simple Gtk# Paint Program](http://pinta-project.com/)
 
+**Fork notice:** This repository is the `oriyano/Pinta` fork of `PintaProject/Pinta`. Changes here are maintained for this fork and are not submitted upstream. See [AGENTS.md](AGENTS.md) for the repository policy.
+
 <a href='https://flathub.org/apps/com.github.PintaProject.Pinta'><img width='200' alt='Get it on Flathub' src='https://flathub.org/api/badge?locale=en'/></a>
 [![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/pinta)
 
